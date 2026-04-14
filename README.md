@@ -2,7 +2,7 @@
 
 
 
-This is the official code of the ACM MM'23 oral paper: Reference-Aware Image Harmonization.
+This is the official code of the Neural Networks 2025 paper: Reference-Aware Image Harmonization.
 
 
 ## Preparation
@@ -35,20 +35,18 @@ We provide the code in train_evaluate.py, which supports the model training, eva
 python train_evaluate.py --dataset_root <DATA_DIR> --save_dir results --batch_size 12 --device cuda 
 ```
 
-## Results
-![](Doc/result1.png)
-![](Doc/result2.jpg)
 
-
-## Citing HDNet
-If you use HDNet in your research, please use the following BibTeX entry.
+## Citing RANet
+If you use RANet in your research, please use the following BibTeX entry.
 
 ```BibTeX
-@inproceedings{MM23_HDNet,
-      title={Hierarchical Dynamic Image Harmonization},
-      author={Chen, Haoxing and Gu, Zhangxuan and Yaohui Li and Lan, Jun and Meng, Changhua and Wang, Weiqiang and Li, Huaxiong},
-      booktitle={ACM Multimedia},
-      year={2023}
+@article{guo2025reference,
+  title={Reference-Aware Image Harmonization},
+  author={Guo, Han and Gu, Hongling and Zheng, Bolun and Zhang, Qianyu and Wang, Canjin and Wang, Yayun and Li, Zongpeng},
+  journal={Neural Networks},
+  pages={108439},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
