@@ -28,7 +28,8 @@ pip install -r requirement.txt
 ```
 ### 3. Prepare the data
 Download [iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) dataset in dataset folder and run  `data/preprocess_iharmony4.py` to resize the images (eg, 512x512, or 256x256) and save the resized images in your local device. 
-
+### 4. Prepare the model in the checkpoints
+Download latest_net_G.pth from https://pan.baidu.com/s/19aglvE2mONiW-gZZHVwpwQ 提取码: y59s
 ### Training and validation
 We provide the code in train_evaluate.py, which supports the model training, evaluation and results saving in iHarmony4 dataset.
 ```python
