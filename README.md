@@ -1,14 +1,9 @@
-## Hierarchical Dynamic Image Harmonization
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchical-dynamic-image-harmonization/image-harmonization-on-iharmony4)](https://paperswithcode.com/sota/image-harmonization-on-iharmony4?p=hierarchical-dynamic-image-harmonization)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchical-dynamic-image-harmonization/image-harmonization-on-hadobe5k-1024-times)](https://paperswithcode.com/sota/image-harmonization-on-hadobe5k-1024-times?p=hierarchical-dynamic-image-harmonization)
+## Reference-Aware Image Harmonization
 
 
-This is the official code of the ACM MM'23 oral paper: Hierarchical Dynamic Image Harmonization.
-![](Doc/hdnet.jpg)
-> [**Hierarchical Dynamic Image Harmonization**](https://arxiv.org/abs/2211.08639)               
-> [Haoxing Chen](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=BnS7HzAAAAAJ), [Zhangxuan Gu](https://scholar.google.com/citations?user=Wkp3s68AAAAJ&hl=zh-CN&oi=ao), [Yaohui Li](https://scholar.google.com/citations?user=pC2kmQoAAAAJ&hl=zh-CN), Jun Lan, Changhua Meng, [Weiqiang Wang](https://scholar.google.com/citations?hl=zh-CN&user=yZ5iffAAAAAJ), [Huaxiong Li](https://scholar.google.com/citations?user=AC-EDw0AAAAJ&hl=zh-CN), [ACM Multimedia 2023](https://arxiv.org/abs/2211.08639) 
+
+This is the official code of the ACM MM'23 oral paper: Reference-Aware Image Harmonization.
+
 
 ## Preparation
 ### 1. Clone this repo:
@@ -59,9 +54,9 @@ If you use HDNet in your research, please use the following BibTeX entry.
 
 
 ## Acknowledgement
-Many thanks to the nice work of  [RainNet](https://github.com/junleen/RainNet). Our codes and configs follow [RainNet](https://github.com/junleen/RainNet).
+Many thanks to the nice work of  [RainNet](https://github.com/junleen/RainNet) and [HDNet](https://github.com/chenhaoxing/HDNet). Our codes and configs follow [HDNet](https://github.com/chenhaoxing/HDNet).
 
 ## Contacts
 Please feel free to contact us if you have any problems. 
 
-Email: [haoxingchen@smail.nju.edu.cn](haoxingchen@smail.nju.edu.cn) or [hx.chen@hotmail.com](chen@hotmail.com)
+Email: [255060123@hdu.edu.cn]
